@@ -1,0 +1,9 @@
+---
+
+### 4. `_config.yml`
+```yaml
+title: Approval Master Policy
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-mermaid  # For diagrams
+markdown: kramdown
